@@ -2,7 +2,6 @@ function LongestWord(sen) {
 
   // code goes here  
   stringArray = sen.split("");
-  var longestString = "";
   var tempString = "";
   var longestArray = [];
   let i = 0;
